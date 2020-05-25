@@ -1,0 +1,1 @@
+LinkedIn için veri tabanı tasarlanıp MySQL ile gerçekleştirimi yapıldı. Test verileri eklenerek çeşitli sorgular çalıştırıldı. ER diyagramı: https://drive.google.com/file/d/1BwbEo46yBDrvf0xp_42BXoYUkNuxyA6j/view?usp=sharing adresinde mevcuttur.
